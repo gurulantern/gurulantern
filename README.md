@@ -1,4 +1,4 @@
-- Hi there! I’m @gurulantern
+- Hi there! I’m Alex!
 - I’m interested in gaming, reading, crypto, and farming.
 - I’m currently learning JavaScript, React, Python, Solidity. My background is in acting and education.
 - 📫 How to reach me: terracottatoy@gmail.com
