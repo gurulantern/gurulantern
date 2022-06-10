@@ -1,6 +1,6 @@
 - Hi there! I’m Alex!
 - I’m interested in gaming, reading, crypto, and farming.
-- I’m currently learning JavaScript, React, Python, Solidity. My background is in acting and education.
+- I’m currently learning JavaScript, React, Python, Solidity, Unity, and C#. My background is in acting and education.
 - 📫 How to reach me: alex.tianzhi.ho@gmail.com
 
 <!---
