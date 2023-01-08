@@ -1,7 +1,7 @@
 
 ### Hey there! I’m Alex!
-- I’m a self-taught developer learning back-end technologies, Unity gamedev, and permaculture techniques. 
-- I’m most proficient in JavaScript, React, Python, Solidity, Unity, and C#. My background is in acting and education.
+- I’m a self-taught developer currently pursuing a degree in Computer Science. 
+- I’m most proficient in JavaScript, React, Java, Unity, and C#. My background is in acting and education.
 - 📫 How to reach me: alex.tianzhi.ho@gmail.com
 - Here is a link to download my [resume](https://gurulantern.github.io/Alex%20Ho%20-%20resume.docx). 
 
@@ -18,7 +18,7 @@
     * Creating a JSX element to replicate an arrow toggle button.
     * Adding KaTeX for Math equation formatting in the markdown file. 
 #### Stone Age Prototype Game - 2022
-* Learned C# and Unity 2D to create a possible prototype for a game to played in Synthesis style. 
+* Learned C# and Unity 2D to create a possible prototype for a game to be played in Synthesis style. 
 * Learned how to use the Colyseus multiplayer framework to manage multiplayer gameplay. Challenges I overcame in this process included:
    * Reading TypeScript and C# code to learn how to use Colyseus despite a low amount of documentation and tutorials. 
    * Updating state for all players along with the different ways for players to update the state. The state of the game included:
