@@ -7,6 +7,8 @@
 
 &darr; You can also read more about my experience below &darr;
 ### Latest Projects
+#### HubSpot Automation Project - 2023
+* Worked in a coding pair to make an app on Google AppsScript to interact with Hubspot and Slack API to email students after querying for relevant data on students. 
 #### Sub Finder App - 2022
 * With a team of other faculty members, I helped to create a possible solution for organizing substitute opportunities in an equitable manner.
 * I learned the Slack API and how to create an app for everyone in the Slack workspace to use. The feautures I built included:
