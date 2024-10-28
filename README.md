@@ -3,7 +3,6 @@
 - 📫 How to reach me: alex.tianzhi.ho@gmail.com
 - Here is a link to view my [resume](https://docs.google.com/document/d/1QQ-Q12RpEhq6CkfgxSuuoIUJRv_QS0kF/edit?usp=sharing&ouid=109025308323601561631&rtpof=true&sd=true). 
 
-&darr; You can also read more about my experience below &darr;
 ### Latest Projects
 
 #### CoLab - Polyphemus Game - 2024
