@@ -1,24 +1,33 @@
 
 ### Hey there! I’m Alex!
-- I’m a self-taught developer currently pursuing a degree in Computer Science. 
-- I’m most proficient in JavaScript, React, Java, Unity, and C#. My background is in acting and education.
 - 📫 How to reach me: alex.tianzhi.ho@gmail.com
 - Here is a link to download my [resume](https://gurulantern.github.io/Alex%20Ho%20-%20resume.docx). 
 
 &darr; You can also read more about my experience below &darr;
 ### Latest Projects
+
+#### CoLab - Polyphemus Game - 2024
+* Based on the tale of Polyphemus in the Odyssey, players play as greek soldiers looking for treasure and sheep in the caves of the cyclops.
+* Players must pass the turn to move and keep away from the cyclops or else lose their score.
+* Web traps can catch players preventing their move and requiring another player to come and untangle them.
+* If at the end of the game, all players have sheep, the team will unlock a secret level where they can grab more treasure.
+
+#### CoLab - Abu Simbel Game - 2024
+* Multiplayer card game focused on dismantling, transporting, and rebuilding temples
+* Each card comes with a cost to their overall budget. With a budget surplus, they can buy upgrades in between rounds and upgrade the effectiveness of their cards.
+* Saving temples earns a positive score and rebuilding them adds a bonus score.
+* Every round, players watch as the Nile valley slowly floods and eats temples they were not able to save. 
+  
 #### HubSpot Automation Project - 2023
-* Worked in a coding pair to make an app on Google AppsScript to interact with Hubspot and Slack API to email students after querying for relevant data on students. 
+* Worked in a coding pair to make an app on Google AppsScript to interact with Hubspot and Slack API to email students after querying for relevant data on students.
+  
 #### Sub Finder App - 2022
 * With a team of other faculty members, I helped to create a possible solution for organizing substitute opportunities in an equitable manner.
 * I learned the Slack API and how to create an app for everyone in the Slack workspace to use. The feautures I built included:
     * A form to update itself based on choices and take data from a submission event.
     * Using node-schedule to set times for the app to do certain jobs.
     * Adding a way for the app to interact with Google Sheets and populate the sheets with data with every request made and resolved. 
-#### Synthesis Docusaurus Migration - 2022
-* Learned MDX in order to help migrate a Faculty handbook from Notion into a Docusaurus site. MDX helped with the following problems:
-    * Creating a JSX element to replicate an arrow toggle button.
-    * Adding KaTeX for Math equation formatting in the markdown file. 
+
 #### Stone Age Prototype Game - 2022
 * Learned C# and Unity 2D to create a possible prototype for a game to be played in Synthesis style. 
 * Learned how to use the Colyseus multiplayer framework to manage multiplayer gameplay. Challenges I overcame in this process included:
